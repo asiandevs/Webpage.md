@@ -42,30 +42,36 @@ Elevate your career with our Azure Solution Architect Certification Training. Th
 - Improve your understanding of cloud architecture and Azure services
 - Increase your marketability and career opportunities in the cloud domain
 
+#### DevOps Training
+
+Transform your IT operations with our comprehensive DevOps Training program. Designed for professionals aiming to streamline processes, enhance collaboration, and automate workflows, this course covers the essential tools and methodologies in the DevOps landscape.
+
+**Course Highlights:**
+- **Introduction to DevOps**: Understanding the DevOps culture and its impact on the software development lifecycle.
+- **Continuous Integration (CI) and Continuous Deployment (CD)**: Implementing CI/CD pipelines using popular tools like Jenkins, GitLab CI, and Azure DevOps.
+- **Configuration Management**: Automating infrastructure with tools like Ansible, Puppet, and Chef.
+- **Containerization and Orchestration**: Working with Docker and Kubernetes to manage and scale applications.
+- **Infrastructure as Code (IaC)**: Using Terraform and AWS CloudFormation for automated infrastructure provisioning.
+- **Monitoring and Logging**: Implementing robust monitoring and logging with tools like Prometheus, Grafana, and ELK Stack.
+- **Security in DevOps**: Integrating security practices into the DevOps workflow (DevSecOps).
+
+**Who Should Attend?**
+- IT professionals and system administrators
+- Developers and engineers interested in automating deployment processes
+- Solution architects aiming to incorporate DevOps practices into their projects
+
+**Benefits:**
+- Master the essential DevOps tools and methodologies
+- Enhance collaboration between development and operations teams
+- Improve efficiency and reduce time-to-market for software projects
+
 #### Get Started
 
-Ready to advance your career with top-notch cloud solution architect training? Contact us today to enroll in our AWS Solution Architect or Azure Solution Architect certification training programs.
+Ready to advance your career with top-notch cloud solution architect and DevOps training? Contact us today to enroll in our AWS Solution Architect, Azure Solution Architect, or DevOps certification training programs.
 
 **Contact Information:**
 - Phone: [Your Phone Number]
 - Email: [Your Email Address]
 - Address: [Your Business Address]
 
-Empower yourself with the skills and knowledge to become a certified cloud solution architect and lead your organization into the future of cloud computing.
-#### Why Choose Us?
-
-- **Expertise Across Platforms**: Our certified professionals have extensive experience with AWS, Azure, and OCI, ensuring you get the best solutions tailored to your needs.
-- **Proven Track Record**: We have successfully assisted numerous clients in transforming their IT infrastructure and maximizing their cloud investment.
-- **Customer-Centric Approach**: We prioritize understanding your unique business challenges and goals to deliver customized, impactful solutions.
-- **End-to-End Services**: From initial consultation to ongoing support, we provide comprehensive services to ensure your cloud journey is smooth and successful.
-
-#### Get Started
-
-Ready to transform your business with the power of cloud computing? Contact us today to schedule a consultation and learn how our cloud consulting support can drive your business forward. 
-
-**Contact Information:**
-- Phone: [Your Phone Number]
-- Email: [Your Email Address]
-- Address: [Your Business Address]
-
-Unlock the full potential of the cloud with Cloud Consulting Support – your partner in innovation and efficiency.
+Empower yourself with the skills and knowledge to become a certified cloud solution architect and DevOps professional, and lead your organization into the future of cloud computing and efficient IT operations.
